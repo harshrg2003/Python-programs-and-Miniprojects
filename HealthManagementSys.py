@@ -1,3 +1,4 @@
+#This is a mini-Project in python where u can keep track of exercises or food taken during the day by logging it and retriving it.
 def getdate():
     import datetime
     return datetime.datetime.now()
